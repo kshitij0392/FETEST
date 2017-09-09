@@ -1,0 +1,16 @@
+.navbar-links{
+  margin-left: 80%;
+}
+.navbar{
+background-color: #e06857 !important;
+}
+
+.list-text{
+  font-weight: bold;
+  color: white;
+}
+
+.extra-options{
+  display: block !important;
+  color: white;
+}
